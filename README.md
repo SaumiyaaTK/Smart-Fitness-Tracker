@@ -51,8 +51,12 @@ This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋�
 
 ---
 
-## 🚀 Getting Started 🏁  
+## 📂 Attachments 📎  
+- 📑 [Power BI Dashboard](Dashboard/) → Power BI `.pbix` file 📂  
+- 🖼️ [Dashboard Screenshot](Screenshot/) → Preview images 🖼️  
 
-1. 📥 Clone this repository:  
-   ```bash
-   git clone https://github.com/SaumiyaaTK/smart-fitness-dashboard.git
+---
+
+## 👤 Author ✍️  
+**Saumiyaa T K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
