@@ -4,8 +4,6 @@
   <img src="https://github.com/SaumiyaaTK/Smart-Fitness-Tracker/blob/main/Fitness Tracker Screenshot.png" alt="Smart-Fitness-Tracker">
 </div>
 
----
-
 ## 📌 Project Overview 🌟  
 The **Smart Fitness Devices Dashboard** is an **interactive Power BI project** 🖥️ built to analyze **smartwatch and fitness band data** ⌚.  
 It provides valuable **market insights** into 📊 pricing, ⭐ ratings, 🔋 battery life, and 📺 display technologies.  
