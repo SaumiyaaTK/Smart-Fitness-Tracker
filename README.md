@@ -1,5 +1,9 @@
 # ⌚ Smart Fitness Devices Dashboard 🏃‍♀️📊💪    
 
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/Smart-Fitness-Tracker/blob/main/Fitness Tracker Screenshot.png" alt="Smart-Fitness-Tracker">
+</div>
+
 ---
 
 ## 📌 Project Overview 🌟  
