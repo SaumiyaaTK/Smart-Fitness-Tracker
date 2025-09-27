@@ -1,17 +1,17 @@
-# ⌚ Smart Fitness Devices Dashboard 🏃‍♀️📊💪    
+# ⌚🏃‍♀️ Smart Fitness Devices Dashboard     
 
 <div align="center">
   <img src="https://github.com/SaumiyaaTK/Smart-Fitness-Tracker/blob/main/Fitness Tracker Screenshot.png" alt="Smart-Fitness-Tracker">
 </div>
 
-## 📌 Project Overview 🌟  
-The **Smart Fitness Devices Dashboard** is an **interactive Power BI project** 🖥️ built to analyze **smartwatch and fitness band data** ⌚.  
-It provides valuable **market insights** into 📊 pricing, ⭐ ratings, 🔋 battery life, and 📺 display technologies.  
-This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋️‍♂️📈 understand how **brands and product features** affect **customer satisfaction and pricing trends**.  
+## 📌 Project Overview 
+The **Smart Fitness Devices Dashboard** is an **interactive Power BI project** built to analyze **smartwatch and fitness band data** ⌚.  
+It provides valuable **market insights** into pricing, ⭐ ratings, 🔋 battery life, and 📺 display technologies.  
+This dashboard helps **businesses, fitness enthusiasts, and analysts** understand how **brands and product features** affect **customer satisfaction and pricing trends**.  
 
----
+---  
 
-## 🎯 Objectives 🎯  
+## 🎯 Objectives   
 - 🔍 Compare **brands by price and ratings**.  
 - 🔋 Analyze how **battery life** impacts selling prices.  
 - 📺 Study **display type trends** and their pricing influence.  
@@ -19,7 +19,7 @@ This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋�
 
 ---
 
-## 📊 Key Features ✨  
+## 📊 Key Features  
 - 💡 **Brand vs. Selling Price** – Compare pricing across major brands.  
 - ⭐ **Ratings Analysis** – Distribution of device ratings and customer feedback.  
 - 🔋 **Battery Life Trends** – Scatter plots of **price vs. battery**.  
@@ -29,14 +29,14 @@ This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋�
 
 ---
 
-## 🛠️ Tools & Technologies ⚙️  
+## 🛠️ Tools & Technologies  
 - ⚡ **Power BI** – Interactive dashboards & data visualization.  
 - 🖥️ **Power Query** – Data transformation & preparation.  
 - 📂 **Custom Dataset** – Smartwatch & fitness tracker device data.  
 
 ---
 
-## 🔍 Dashboard Sections Explained 🧩  
+## 🔍 Dashboard Sections Explained   
 - 💵 **Brand vs. Selling Price** → Highlights premium vs. budget brands.  
 - ⭐ **Brand vs. Ratings** → Shows consumer preferences & satisfaction.  
 - 🔋 **Battery Life vs. Price** → Compares device longevity vs. cost.  
@@ -45,7 +45,7 @@ This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋�
 
 ---
 
-## 🔮 Insights & Learnings 💡  
+## 🔮 Insights & Learnings  
 - 📈 **Samsung and Fitbit** dominate the higher pricing segment.  
 - ⭐ Most devices received **4-star ratings**, showing strong user satisfaction.  
 - 🔋 Devices with **longer battery life** don’t always command higher prices.  
@@ -53,12 +53,17 @@ This dashboard helps **businesses, fitness enthusiasts, and analysts** 💼🏋�
 
 ---
 
-## 📂 Attachments 📎  
-- 📑 [Power BI Dashboard](Dashboard/) → Power BI `.pbix` file 📂  
-- 🖼️ [Dashboard Screenshot](Screenshot/) → Preview images 🖼️  
+## 🔗 Attachments   
+- [Power BI Dashboard](Dashboard/) → Power BI `.pbix` file 📂  
+- [Dashboard Screenshot](Screenshot/) → Preview images 🖼️  
 
 ---
 
 ## 👤 Author ✍️  
 **Saumiyaa T K**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
+[![GitHub](https://img.shields.io/badge/GitHub-SaumiyaaTK-blue?logo=github)](https://github.com/SaumiyaaTK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumiyaa%20T%20K-blue?logo=linkedin)](https://www.linkedin.com/in/saumiyaa-t-k)  
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
