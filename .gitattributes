@@ -1,4 +1,4 @@
 *.sql linguist-detectable=false
 *.python linguist-detectable=false
-*.power bi linguist-detectable=true
+*.powerbi linguist-detectable=true
 *.tableau linguist-detectable=false
